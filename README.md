@@ -13,7 +13,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 - 1-meter fiber optic cable  
 - Digital Multimeter (DMM)  
 
---
+---
 
 ## 📚 THEORY
 
@@ -40,7 +40,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 ---
 
 ## 🔌 CONNECTION DIAGRAM
-
+<img width="773" height="485" alt="image" src="https://github.com/user-attachments/assets/229ae738-2916-4ccb-98ea-9f10569bd4e1" />
 
 ---
 
@@ -50,20 +50,27 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 | Forward Voltage Vf (V) | Forward Current If (mA) |
 |------------------------|-------------------------|
-|          0              |             0            |
-|          1.42              |           0.011              |
-|          1.47              |           0.085              |
-|      1.48   |        0.076     |
-|   1.5  |    0.072  |
-|  1.52  |   0.06   | 
+|           0.9mv        |            0.1mA        |
+|           1.2mv        |            0.1mA        |
+|           1.9mv        |            0.2mA        |
+|           2.5mv        |            0.3mA        |
+|           2.7mv        |            0.4mA        |
+|           3.6mv        |            1.5mA        |
+|           4.0mv        |            1.8mA        |
+|           5.2mv        |            2.8mA        |
+|           7.6mv        |            4.0mA        |
+|           8.0mv        |            4.4mA        |
+|          10.2mv        |            7.2mA        |
+|          12.5mv        |            9.4mA        |
+|            15mv        |           10.1mA        |
+
+![WhatsApp Image 2025-11-24 at 07 58 04_224a3aad](https://github.com/user-attachments/assets/d7853789-cb2a-469a-bbcf-c9b2cbd5277e)
 
 ---
 
 ## 📈 MODEL GRAPH
 
-<img width="546" height="425" alt="image" src="https://github.com/user-attachments/assets/c014fd9c-fe2e-46fd-a94a-1edde0008d3b" />
-<img width="745" height="836" alt="image" src="https://github.com/user-attachments/assets/e57d976a-ea84-48fc-82f3-4d0702242c7f" />
-
+![WhatsApp Image 2025-11-24 at 07 58 04_f7237c54](https://github.com/user-attachments/assets/d0daf57b-bff6-45af-9d51-432401da29e2)
 
 ---
 
